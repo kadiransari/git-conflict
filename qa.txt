@@ -1,4 +1,4 @@
 my name is kadir ansari.
 i have done graduation from jpiet in 2022.
 i have one year experience.
-first git-conflict
+git second-conflict
